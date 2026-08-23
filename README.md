@@ -3,8 +3,8 @@
 A simple collection of KiCad libraries made by myself. Feel free to use them in your projects.
 
 > [!WARNING]  
-> These models are **not** made for **commercial** use. <br>
-> Please make your own verification before making a commercial product with these.
+> These models are **NOT** made for **commercial** use. <br>
+> Please make your own verifications before making a commercial product with any of these.
 
 > **There's a part list bellow!**
 
@@ -14,7 +14,7 @@ A simple collection of KiCad libraries made by myself. Feel free to use them in 
 <img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/docs/save_zip.png" width="360">
 
 2. Extract the ZIP file using Windows Explorer or the tool of your choice.<br>
-   **Use a static directory that won't be deleted like "Documents" if you plan to use the parts in multiple KiCad projects.**
+   **Use a static directory that won't be deleted (like "Documents") if you plan to use in multiple KiCad projects.**
 
 3. Add the symbol to KiCad in `Preferences > Manage Symbol Libraries`.
 <img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/docs/manage_symbols.png" width="360">

@@ -1,8 +1,51 @@
 # Noah's KiCad Custom Libraries
 
+A simple collection of KiCad libraries made by myself. Feel free to use them in your projects.
+
+> [!WARNING]  
+> These models are **not** made for **commercial** use. <br>
+> Please make your own verification before making a commercial product with these.
+
+> **There's a part list bellow!**
+
+## How to install (beginner friendly)
+
+1. Download this repository as a ZIP file or clone it.
+<img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/docs/save_zip.png" width="360">
+
+2. Extract the ZIP file using Windows Explorer or the tool of your choice.<br>
+   **Use a static directory that won't be deleted like "Documents" if you plan to use the parts in multiple KiCad projects.**
+
+3. Add the symbol to KiCad in `Preferences > Manage Symbol Libraries`.
+<img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/docs/manage_symbols.png" width="360">
+
+4. Make sure you're in "Global Libraries" if you plan to use them in multiples KiCad projects and click on the folder icon.
+<img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/docs/open_lib.png" width="240">
+
+5. Open the `.kicad_sym` file in the part's folder you want to add.
+<img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/docs/open_symbol_file.png" width="480">
+
+6. Close the library manager window properly with "Ok".
+
+7. Add the footprint to KiCad in `Preferences > Manage Footprint Libraries`.
+<img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/docs/manage_footprint.png" width="360">
+
+8. Make sure you're in "Global Libraries" if you plan to use them in multiples KiCad projects and click on the folder icon.
+<img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/docs/open_lib.png" width="240">
+
+9. Click on the `.pretty` folder (without going inside it) and select open to confirm the selection.
+<img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/docs/open_footprint_folder.png" width="480">
+
+10. Close the library manager window properly with "Ok".
+
+11. It should now be available in the symbol or footprint list! <br>
+    Make sure to close and reopen the Schematic and PCB Editor to refresh the changes.
+
 ## Parts List
 
-### MH-MINI-360
+### [Mini360](https://github.com/noahbleau/KiCad.lib/tree/main/Mini360)
+> A.k.a.: MH-MINI-360
+
 DC-DC Buck Converter with adjustable voltage output
 
 AliExpress : https://www.aliexpress.com/item/1005012319333975.html

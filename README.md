@@ -62,3 +62,22 @@ AliExpress : https://www.aliexpress.com/item/1005012319333975.html
     <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/Mini360/footprint.png" width="240"></td>
   </tr>
 </table>
+
+### [TTP223 Touch Sensor](https://github.com/noahbleau/KiCad.lib/tree/main/TTP223%20Touch%20Sensor)
+
+Capacitive Single Channel Touch Button
+
+AliExpress : https://www.aliexpress.com/item/1005006246380749.html
+
+<table>
+  <tr>
+    <th>Product</th>
+    <th>Symbol</th>
+    <th>Footprint</th>
+  </tr>
+  <tr>
+    <td><img src="https://www.atelierdelarobotique.fr/wp-content/uploads/2025/10/TTP223-capteur-tactile.jpg" width="240"></td>
+    <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/TTP223%20Touch%20Sensor/symbol.png" width="240"></td>
+    <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/TTP223%20Touch%20Sensor/footprint.png" width="240"></td>
+  </tr>
+</table>

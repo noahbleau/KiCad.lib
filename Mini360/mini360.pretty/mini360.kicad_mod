@@ -3,12 +3,14 @@
 	(generator "pcbnew")
 	(generator_version "10.0")
 	(layer "F.Cu")
-	(property "Reference" "REF**"
+	(descr "DC-DC Buck Converter with adjustable voltage output")
+	(tags "MH-MINI-360")
+	(property "Reference" "Mini360"
 		(at 0 -0.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "e6febdcb-3265-4797-b45a-d5da44bcd1ad")
+		(uuid "32567c75-c4ae-428f-ba88-6c958523d9ba")
 		(effects
 			(font
 				(size 1 1)
@@ -20,7 +22,7 @@
 		(at 0 2 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "483cb7a0-dab9-4872-a205-57f89f66a39a")
+		(uuid "648e37aa-b668-4dcb-9b5a-f3c04d3a8df0")
 		(effects
 			(font
 				(size 1 1)
@@ -33,7 +35,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "de0ce587-8811-4da4-828a-8838071445ec")
+		(uuid "41bd8f5f-04dc-4ce3-a0aa-957c336122f0")
 		(effects
 			(font
 				(size 1 1)
@@ -41,12 +43,12 @@
 			)
 		)
 	)
-	(property "Description" ""
+	(property "Description" "DC-DC Buck Converter with adjustable voltage output"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "dd4b832a-22ae-48c1-951f-af36fb199b0a")
+		(uuid "efac5ba1-6312-4617-aabe-1d5721a431d9")
 		(effects
 			(font
 				(size 1 1)
@@ -64,7 +66,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "f2a33b21-38d4-4c05-8e31-485431b8c48f")
+		(uuid "7fdb1bb3-3792-43d3-b3ca-8d63115395c4")
 	)
 	(fp_line
 		(start -3 -2.5)
@@ -74,7 +76,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "f1abaf9f-673e-4489-8321-4304b5a3bffe")
+		(uuid "fdc60dac-c3d7-43c9-8440-446084519137")
 	)
 	(fp_line
 		(start -3 0.5)
@@ -84,7 +86,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "ec711e89-5b59-4bcc-bd2c-b85e2d27ab97")
+		(uuid "3f5f0747-a9ba-4dc8-a119-7914eaca38b0")
 	)
 	(fp_line
 		(start 4.5 -1)
@@ -94,35 +96,35 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "4ad9359a-2bc2-4a1e-b11b-e6aa41263b97")
+		(uuid "a3bd2e7c-7a2b-4ed7-8137-fdd7ac054b8b")
 	)
 	(fp_rect
-		(start -8.85 -5.8)
-		(end 8.85 5.8)
+		(start -8.78 -5.785)
+		(end 8.78 5.785)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "d92835f8-d6fb-4950-ad02-ee5de4f28c42")
+		(uuid "93fcb5bf-5a92-495b-8dba-4f016563d661")
 	)
 	(fp_rect
-		(start -9 -6)
-		(end 9 6)
+		(start -9.75 -6.75)
+		(end 9.75 6.75)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "ca16b6c5-b924-42d7-9199-a16ce1a12f8c")
+		(uuid "03a194fc-4016-4c9b-88e6-791fe938e986")
 	)
 	(fp_text user "OUT+"
-		(at -6 -4.5 0)
+		(at -6.5 -4.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "22d01833-72fd-4220-8811-ec8d88fdff53")
+		(uuid "614c8a45-f22b-4aea-bbe8-94e723df5897")
 		(effects
 			(font
 				(size 0.75 0.75)
@@ -132,79 +134,79 @@
 		)
 	)
 	(fp_text user "OUT-"
-		(at -6 5.5 0)
+		(at -6.5 4.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "3568cd6c-a435-4d14-8082-8b15132eef47")
+		(uuid "755c5179-f9fe-4518-bc67-e759754dd893")
 		(effects
 			(font
 				(size 0.75 0.75)
 				(thickness 0.1)
 			)
-			(justify left bottom)
+			(justify left top)
 		)
 	)
 	(fp_text user "IN+"
-		(at 4 -4.5 0)
+		(at 6.5 -4.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "5969a887-945b-445d-9624-d903e8fb4d51")
+		(uuid "dea1c742-bfd4-4bac-88f8-929d1aac6571")
 		(effects
 			(font
 				(size 0.75 0.75)
 				(thickness 0.1)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 	)
 	(fp_text user "IN-"
-		(at 4 5.5 0)
+		(at 6.5 4.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "872b01cf-0f6d-4a33-bd34-4d9aee987c92")
+		(uuid "d3f73d18-8340-4810-b53f-d9d6b763646f")
 		(effects
 			(font
 				(size 0.75 0.75)
 				(thickness 0.1)
 			)
-			(justify left bottom)
+			(justify right top)
 		)
 	)
 	(pad "1" thru_hole roundrect
-		(at -7.5 -4.5)
+		(at -8.2 -5.2)
 		(size 2.54 2.54)
-		(drill 1.02)
+		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.15)
-		(uuid "44be326f-c5e1-47e7-bda2-dd5a7e431283")
+		(uuid "c13956af-cc1d-474c-99f0-02fb0452fd94")
 	)
 	(pad "2" thru_hole roundrect
-		(at -7.5 4.5)
+		(at -8.2 5.2)
 		(size 2.54 2.54)
-		(drill 1.02)
+		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.15)
-		(uuid "77ff5c95-fe49-4390-9d23-afbdd8eb253c")
+		(uuid "c1bd5442-3c5e-471f-ad08-2b7288f59db4")
 	)
 	(pad "3" thru_hole roundrect
-		(at 7.5 -4.5)
+		(at 8.2 -5.2)
 		(size 2.54 2.54)
-		(drill 1.02)
+		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.15)
-		(uuid "201b7182-735d-4ca7-ba17-3a967ca2e5df")
+		(uuid "66eec037-56d4-4dbe-ac31-5cb337bde957")
 	)
 	(pad "4" thru_hole roundrect
-		(at 7.5 4.5)
+		(at 8.2 5.2)
 		(size 2.54 2.54)
-		(drill 1.02)
+		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.15)
-		(uuid "596da212-d2f4-410c-a40e-fd3b6d17d0c3")
+		(uuid "af4c6de9-663d-4734-b092-10de98073971")
 	)
 	(embedded_fonts no)
 )

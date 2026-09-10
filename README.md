@@ -33,11 +33,11 @@ AliExpress : https://www.aliexpress.com/item/1005012319333975.html
     <th>3D Model</th>
   </tr>
   <tr>
-    <td><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sbc347deb9a244be2969da2732aa050f5S.jpg" width="240"></td>
+    <td><img src="https://ae-pic-a1.aliexpress-media.com/kf/Sbc347deb9a244be2969da2732aa050f5S.jpg" width="280"></td>
     <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/Mini360/symbol.png" width="280"></td>
-    <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/Mini360/footprint.png" width="300"></td>
-    <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/Mini360/3d-footprint.png" width="300"></td>
-    <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/Mini360/3d-model.png" width="300"></td>
+    <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/Mini360/footprint.png" width="280"></td>
+    <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/Mini360/3d-footprint.png" width="280"></td>
+    <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/Mini360/3d-model.png" width="280"></td>
   </tr>
 </table>
 
@@ -64,10 +64,10 @@ AliExpress : https://www.aliexpress.com/item/1005006246380749.html
     <th>3D Model</th>
   </tr>
   <tr>
-    <td><img src="https://www.atelierdelarobotique.fr/wp-content/uploads/2025/10/TTP223-capteur-tactile.jpg" width="240"></td>
-    <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/TTP223/symbol.png" width="240"></td>
-    <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/TTP223/footprint.png" width="240"></td>
-    <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/TTP223/3d-footprint.png" width="240"></td>
-    <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/TTP223/3d-model.png" width="240"></td>
+    <td><img src="https://www.atelierdelarobotique.fr/wp-content/uploads/2025/10/TTP223-capteur-tactile.jpg" width="280"></td>
+    <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/TTP223/symbol.png" width="280"></td>
+    <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/TTP223/footprint.png" width="280"></td>
+    <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/TTP223/3d-footprint.png" width="280"></td>
+    <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/TTP223/3d-model.png" width="280"></td>
   </tr>
 </table>

@@ -29,7 +29,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TTP223:TTP223 Touch Sensor"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51,7 +51,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Capacitive Single Channel Touch Button"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -45,7 +45,7 @@ The 3D model was made by [Unit Electronics](https://grabcad.com/unit.electronics
 
 ---
 
-### [TTP223 Touch Sensor](https://github.com/noahbleau/KiCad.lib/tree/main/TTP223%20Touch%20Sensor)
+### [TTP223 Touch Sensor](https://github.com/noahbleau/KiCad.lib/tree/main/TTP223)
 
 **Description** : Capacitive Single Channel Touch Button
 
@@ -65,9 +65,9 @@ AliExpress : https://www.aliexpress.com/item/1005006246380749.html
   </tr>
   <tr>
     <td><img src="https://www.atelierdelarobotique.fr/wp-content/uploads/2025/10/TTP223-capteur-tactile.jpg" width="240"></td>
-    <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/TTP223%20Touch%20Sensor/symbol.png" width="240"></td>
-    <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/TTP223%20Touch%20Sensor/footprint.png" width="240"></td>
-    <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/TTP223%20Touch%20Sensor/3d-footprint.png" width="240"></td>
-    <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/TTP223%20Touch%20Sensor/3d-model.png" width="240"></td>
+    <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/TTP223/symbol.png" width="240"></td>
+    <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/TTP223/footprint.png" width="240"></td>
+    <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/TTP223/3d-footprint.png" width="240"></td>
+    <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/TTP223/3d-model.png" width="240"></td>
   </tr>
 </table>

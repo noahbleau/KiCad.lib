@@ -41,7 +41,7 @@ AliExpress : https://www.aliexpress.com/item/1005012319333975.html
   </tr>
 </table>
 
-The 3D model was made by [Unit Electronics](https://grabcad.com/unit.electronics-1). Model link [here](https://grabcad.com/library/mini-360-mp2307-1).
+The 3D model for the following part was made by [Unit Electronics](https://grabcad.com/unit.electronics-1) from GrabCAD. View model source [here](https://grabcad.com/library/mini-360-mp2307-1).
 
 ---
 
@@ -71,3 +71,5 @@ AliExpress : https://www.aliexpress.com/item/1005006246380749.html
     <td><img src="https://raw.githubusercontent.com/noahbleau/KiCad.lib/refs/heads/main/TTP223/3d-model.png" width="280"></td>
   </tr>
 </table>
+
+The 3D model for the following part was made by [Andrey Chirva](https://grabcad.com/andrey.chirva-1) from GrabCAD. View model source [here](https://grabcad.com/library/ttp223-2).
